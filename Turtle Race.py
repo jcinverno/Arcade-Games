@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb  7 11:23:14 2021
-
-@author: jcinv
-"""
-
 from turtle import Turtle, Screen
 from random import randint
 
@@ -43,21 +36,6 @@ while is_race_on:
                 print(f"You've lost! The {winning_color} won.")
         else:
             dist = randint(0, 5)
-            e.forward(dist)
-        
-
-        
-        
-            
-
-            
-        
-        
-        
-        
-        
-        
-        
-        
+            e.forward(dist)       
 
 screen.exitonclick()

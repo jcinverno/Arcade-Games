@@ -53,7 +53,6 @@ while game_is_on:
         
         ball.reset_speed()
         ball.beginning()
-        ball.beginning()
         score.rscore()
         score.update()
 

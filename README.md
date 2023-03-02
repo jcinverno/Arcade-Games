@@ -6,3 +6,5 @@ These are some of the Games I've built using Object Oriented Programming and tur
 <b>Pong:</b> A simple 2D sports game where players use paddles to hit a ball back and forth across a screen.
 
 <b>Turtle_Crossing:</b> A game where the player controls a turtle and guides it to the other side of the screen while avoiding obstacles, such as bricks.
+
+<b>Breakout:</b> Classic arcade game where the player controls a paddle to bounce a ball and break bricks at the top of the screen. As the levels progress, the gameplay becomes more challenging with faster ball movement.
